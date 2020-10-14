@@ -11,6 +11,7 @@ print("""
      -- - - - -- - - - - - -- - - - -  - -- - - - - - -- - - - - - - - - - - - - - - -- - - - - - - - - - - -
                                    Tasarlayan:Hydrax
  """)
+print ("youtube:https://studio.youtube.com/channel/UC-0OiCnr2tM4U8oJNhscYLw/editing/images")
 import random
 from scapy.all import *
 targetIP = input("Kurbanın IP adresi: ")
