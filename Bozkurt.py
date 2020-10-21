@@ -1,7 +1,7 @@
 import random
 from scapy.all import *
 os.system ("clear")
-os.system ("figlet BOZKURTX DDOS ATTACK
+os.system ("figlet BOZKURTX DDOS ATTACK")
 targetIP = input("Kurbanın IP adresi: ")
 port = input("Port:   ")
 os.system("clear")
