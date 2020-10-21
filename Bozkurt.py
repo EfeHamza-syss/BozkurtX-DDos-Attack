@@ -6,14 +6,15 @@ targetIP = input("Kurbanın IP adresi: ")
 port = input("Port:   ")
 os.system("clear")
 os.system("figlet DDOS BASLATILIYOR")
-print "[                    ] 0% "
+print ("[                    ] 0% ")
 time.sleep(5)
-print "[=====               ] 25%"
+print ("[=====               ] 25%")
 time.sleep(5)
-print "[==========          ] 50%"
+print ("[==========          ] 50%")
 time.sleep(5)
-print "[===============     ] 75%
-ptint "[====================] 100%"
+print ("[===============     ] 75%")
+time.sleep
+print ("[====================] 100%")
 time.sleep(3)
 i=1
  
